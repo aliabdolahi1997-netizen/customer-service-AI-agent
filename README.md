@@ -2,13 +2,13 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Project Title
+# costomer service AI agent
 
 Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+ its most economic solution for shops and SMEs to operate 24/7 with real time info ,this tool also analyze converstatoin to lead .
 
 
 ## Background
@@ -16,8 +16,9 @@ Describe briefly in 2-3 sentences what your project is about. About 250 characte
 Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
 
 This is how you make a list, if you need one:
-* problem 1
-* problem 2
+* profesnal sales operator for long life with 80% less cost
+* deleting some positions like accountant and night shift
+* increase sales
 * etc.
 
 
